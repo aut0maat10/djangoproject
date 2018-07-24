@@ -1,6 +1,6 @@
 # Django Test Blog
 
-This is a simple blog app, built to become more familiar with the Django framework. Very minimal styling. Database: PostgreSQL.
+This is a simple blog app, built in order to become more familiar with the Django framework. Focus on functionality, minimal styling. Database: PostgreSQL.
 
 ### Screenshots
 
